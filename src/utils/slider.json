@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Abuja House",
+    "price": "47,043",
+    "detail": "A fine house that is good",
+    "image": "./r1.png"
+  },
+  {
+    "name": " Garden City",
+    "price": "66,353",
+    "detail": "A fine house that is good",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Lagos House",
+    "price": "35,853",
+    "detail": "A fine house that is good",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Lekki House",
+    "price": "47,043",
+    "detail": "A fine house that is good ",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Garden House",
+    "price": "66,353",
+    "detail": "A fine house that is good for living",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Estate House",
+    "price": "35,853",
+    "detail": "A fine house that is good looking",
+    "image": "./r3.png"
+  }
+]
